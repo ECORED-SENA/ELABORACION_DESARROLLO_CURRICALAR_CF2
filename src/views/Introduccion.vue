@@ -14,15 +14,19 @@
 
     p.mb-4(data-aos="fade") Apreciado participante, le damos la bienvenida a este momento de aprendizaje orientado al abordaje de proyectos formativos según la metodología SENA. Antes de empezar le sugerimos revisar la siguiente infografía para identificar el contexto de aprendizaje.      
 
-
+    Botones.mb-4(data-aos="fade-down")
 
     p(data-aos="fade") A lo largo de este documento se le presentarán conceptos fundamentales sobre los proyectos formativos, de manera que pueden ser útiles para la formulación de estos.
     
 </template>
 
 <script>
+import Botones from '../components/Botones.vue'
 export default {
   name: 'Introduccion',
+  components: {
+    Botones,
+  },
   data: () => ({
     // variables de vue
   }),

@@ -166,7 +166,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-2 Síntesis
-                  p.mb-0.text-small Ver gráfica.
+                  p.mb-0.text-small El siguiente mapa muestra la síntesis sobre conceptos abordados en el desarrollo curricular.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/CF2_Proyecto-formativo_Sintesis-PDF.pdf')" target="_blank")
                     span Descargar
