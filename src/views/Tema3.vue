@@ -57,7 +57,7 @@
       strong son una estratégica pedagógica, didáctica y metodológica, 
       | además son un instrumento de administración educativa, pues, a través de ellos, se organizan las acciones de la planeación pedagógica. Revise el siguiente mapa, el cual presenta sus características.
 
-    .titulo-sexto.color-primario(data-aos="fade-down") 
+    .titulo-sexto.color-primario.mb-0(data-aos="fade-down") 
       p.mb-0 <b>Figura 4.</b> Proyecto formativo 
     figure(data-aos="fade-down") 
       img(src='@/assets/curso/tema3-2-figura.svg', alt='Proyecto formativo')
@@ -151,7 +151,7 @@
     
     p.mb-4(data-aos="fade") Se propone el siguiente esquema para valorar la calidad de un proyecto formativo.
 
-    .titulo-sexto.color-primario(data-aos="fade-down") 
+    .titulo-sexto.color-primario.mb-0(data-aos="fade-down") 
       p.mb-0 <b>Figura 6.</b> Criterios de calidad de un proyecto formativo
     figure.mb-5(data-aos="fade-down") 
       img(src='@/assets/curso/tema3-3-figura6.svg', alt='Criterios de calidad de un proyecto formativo')

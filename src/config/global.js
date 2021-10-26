@@ -118,141 +118,74 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Carrera, M. (2007). Marco conceptual y pedagógico para la formación por proyectos en el SENA. Servicio Nacional de Aprendizaje SENA.',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'López, M., Ramos, E. y Malagón, M. (2007). El aprendizaje por proyectos en el SENA: el caso del Centro de la Construcción del SENA, Regional Valle del Cauca. SENA. ',
+      link: 'https://repositorio.sena.edu.co/handle/11404/6016',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Martí, J., Heydrich, M., Rojas, M. y Hernández, A. (2010). Aprendizaje basado en proyectos: Una experiencia de innovación docente. REVISTA Universidad EAFIT, 46(158), p. 11-21.',
+    },
+    {
+      referencia: 'SENA. (1985). Unidad Técnica. Publicaciones SENA.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'SENA. (2020). Guía de Desarrollo Curricular. Publicaciones SENA.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Villar, S. (2013). Aprendizaje basado en proyectos. Universidad de Zaragoza.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Desarrollo curricular',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Procedimiento mediante el cual se planea, diseña y ejecuta la ruta de aprendizaje de cada aprendiz, mediante proyectos formativos y planeación pedagógica que contienen actividades de aprendizaje, y aplicación de técnicas didácticas activas que permiten desarrollar sus competencias con ritmos de aprendizaje personalizados.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Proyecto formativo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'El proyecto es un instrumento de gestión que prevé y organiza acciones de planeación técnico-pedagógicas y de administración (SENA, 1985).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Recurso didáctico',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un instrumento que se elabora con una finalidad educativa.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ley 119 de 1994. [Congreso de Colombia]. Por la cual se reestructura el Servicio Nacional de Aprendizaje, SENA, se deroga el Decreto 2149 de 1992 y se dictan otras disposiciones.',
+      tipo: 'Documento ',
+      link:
+        'https://agenciapublicadeempleo.sena.edu.co/Normatividad/Ley%20119%20de%201994.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Decreto 249 de 2004. [Congreso de Colombia]. Por el cual se modifica la estructura del Servicio Nacional de Aprendizaje, SENA.',
+      tipo: 'Documento',
+      link:
+        'https://funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=33418',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Decreto 1426 de 1998. [Departamento Administrativo de la función pública]. Por el cual se establece el sistema de nomenclatura, clasificación y remuneración de los empleos públicos del Servicio Nacional de Aprendizaje, SENA.',
+      tipo: 'Documento',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=100460',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Acuerdo 0012 de 1985. [Consejo Directivo del SENA]. Por medio del cual se establecen los lineamientos fundamentales de la política Técnico-Pedagógica del SENA y se fijan las directrices para su gestión con miras a lograr y conservar la Unidad Técnica en la Entidad.',
+      tipo: 'Documento',
+      link:
+        'http://files.coordinacion-construccion7.webnode.es/200000461-4c3694eeb8/Unidad%20T%C3%A9cnica.pdf',
     },
   ],
   creditos: {
@@ -268,7 +201,34 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Alexandra Hoyos Figueroa',
+        cargo: 'Profesional de diseño y desarrollo curricular',
+        centro:
+          'Centro para el Desarrollo de Hábitat y la Construcción <br>Regional',
+      },
+      {
+        nombre: 'Hernán Darío Córdoba Escobar ',
+        cargo: 'Instructor',
+        centro:
+          'Centro para el Desarrollo de Hábitat y la Construcció <br>Regional',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial <br>Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja <br>Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -276,43 +236,49 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Juan Carlos Tapias Rueda',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrea Paola Botello De la Rosa',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: ' ',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
     ],
   },

@@ -64,11 +64,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-2 Documento GFPI-AN-006
-                  p.mb-0.text-small Cuando se lleven a cabo jornadas de desarrollo curricular para diseños de modalidad virtual, se recomienda remitirse al documento GFPI-AN-006, publicado en la plataforma CompromISO. ¡Revíselo!
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="(' ')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download         
+                  p.mb-0.text-small Cuando se lleven a cabo jornadas de desarrollo curricular para diseños de modalidad virtual, se recomienda remitirse al documento GFPI-AN-006, publicado en la plataforma CompromISO. ¡Revíselo!       
     
     p.mb-4(data-aos="fade") Tenga en cuenta que, para realizar el procedimiento de 
       strong desarrollo curricular 
