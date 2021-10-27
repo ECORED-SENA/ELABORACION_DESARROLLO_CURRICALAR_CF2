@@ -48,7 +48,7 @@
                   h4.mb-2 Guía de desarrollo curricular
                   p.mb-0.text-small Se le invita a realizar la consulta a detalle de la Guía de desarrollo curricular GFPI-G012 V3 (SENA, 2020).
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="(' ')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
 
