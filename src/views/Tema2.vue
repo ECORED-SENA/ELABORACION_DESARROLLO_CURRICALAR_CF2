@@ -165,7 +165,7 @@
       .col-md-10(data-aos="fade-down") 
         .cajon.color-secundario.p-4
           .row.justify-content-center.px-md-4
-            .col-md-2
+            .col-md-2.col-5.mb-md-0.mb-4
               img.px-md-2(src='@/assets/curso/tema2-3-ico.svg', alt='Imagen decorativa') 
             .col-md-10
               p La información sobre los equipos de Desarrollo Curricular para los programas en modalidad virtual o a distancia se puede ampliar según lo establecido en el documento publicado en CompromISO GFPI-AN-006 Anexo conformación equipos técnico – pedagógicos y líneas de producción  (
