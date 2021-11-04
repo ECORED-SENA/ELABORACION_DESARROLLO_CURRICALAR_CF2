@@ -162,30 +162,26 @@ export default {
     {
       texto:
         'Ley 119 de 1994. [Congreso de Colombia]. Por la cual se reestructura el Servicio Nacional de Aprendizaje, SENA, se deroga el Decreto 2149 de 1992 y se dictan otras disposiciones.',
-      tipo: 'Documento ',
-      link:
-        'https://agenciapublicadeempleo.sena.edu.co/Normatividad/Ley%20119%20de%201994.pdf',
+      tipo: 'PDF ',
+      descarga: '/downloads/Ley_119_de_1994.pdf',
     },
     {
       texto:
         'Decreto 249 de 2004. [Congreso de Colombia]. Por el cual se modifica la estructura del Servicio Nacional de Aprendizaje, SENA.',
-      tipo: 'Documento',
-      link:
-        'https://funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=33418',
+      tipo: 'PDF',
+      descarga: '/downloads/Decreto_249_de_2004.pdf',
     },
     {
       texto:
         'Decreto 1426 de 1998. [Departamento Administrativo de la función pública]. Por el cual se establece el sistema de nomenclatura, clasificación y remuneración de los empleos públicos del Servicio Nacional de Aprendizaje, SENA.',
-      tipo: 'Documento',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=100460',
+      tipo: 'PDF',
+      descarga: '/downloads/Decreto_1426_de_1998.pdf',
     },
     {
       texto:
         'Acuerdo 0012 de 1985. [Consejo Directivo del SENA]. Por medio del cual se establecen los lineamientos fundamentales de la política Técnico-Pedagógica del SENA y se fijan las directrices para su gestión con miras a lograr y conservar la Unidad Técnica en la Entidad.',
-      tipo: 'Documento',
-      link:
-        'http://files.coordinacion-construccion7.webnode.es/200000461-4c3694eeb8/Unidad%20T%C3%A9cnica.pdf',
+      tipo: 'PDF',
+      descarga: '/downloads/Acuerd_ 0012_de_1985.pdf',
     },
   ],
   creditos: {
