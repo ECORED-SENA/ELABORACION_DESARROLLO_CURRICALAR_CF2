@@ -203,13 +203,13 @@ export default {
         nombre: 'Alexandra Hoyos Figueroa',
         cargo: 'Profesional de diseño y desarrollo curricular',
         centro:
-          'Centro para el Desarrollo de Hábitat y la Construcción <br>Regional',
+          'Centro para el Desarrollo de Hábitat y la Construcción <br>Regional Antioquia',
       },
       {
         nombre: 'Hernán Darío Córdoba Escobar ',
         cargo: 'Instructor',
         centro:
-          'Centro para el Desarrollo de Hábitat y la Construcció <br>Regional',
+          'Centro para el Desarrollo de Hábitat y la Construcción <br>Regional Antioquia',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',

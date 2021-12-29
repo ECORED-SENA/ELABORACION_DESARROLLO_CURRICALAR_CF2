@@ -72,7 +72,7 @@
       strong ejecución en la plataforma Sofia Plus, 
       | de manera que se pueda crear el 
       strong proyecto formativo. 
-      | Para programas de formación complementaria, deben estar en estado aprobados en la plataforma.
+      | Para programas de formación complementaria, deben estar en estado aprobado en la plataforma.
 
     .row.justify-content-center
       .col-md-10
@@ -98,7 +98,7 @@
         .bloque-texto-b.color-secundario.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 El procedimiento de desarrollo curricular es un documento complementario alojado en la plataforma CompromISO, permite operacionalizar la ruta para la elaboración de los instrumentos que lo componen; además, la asignación de los recursos humanos y físicos en el marco de las normas vigentes”. 
+            h4.mb-0 El procedimiento de desarrollo curricular es un documento complementario alojado en la plataforma CompromISO, permite operacionalizar la ruta para la elaboración de los instrumentos que lo componen; además, la asignación de los recursos humanos y físicos en el marco de las normas vigentes. 
             i.fas.fa-quote-right
         p.px-md-3 - Procedimiento de desarrollo curricular GFPI-P-013 V3 (SENA, 2020).  
       .col-md-5(data-aos="fade-left")
